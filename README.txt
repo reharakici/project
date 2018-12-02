@@ -1,3 +1,7 @@
+Admin panel 
+username:admin
+password:admin
+
 I took this template from templatemonster and i used bootstrap and jquery libraries also i use image resizer function and function library which i took from internet for make mysql queries easier.
 
 I got Admin Panel for administrate the website.
